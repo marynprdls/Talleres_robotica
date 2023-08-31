@@ -23,3 +23,51 @@
     }
     
 }
+
+
+
+.piedepag{
+    margin: 1px;
+    border: solid 1px #041c695c;
+    padding: 1px;
+    background-color:blue;
+}
+.footercontenido{
+    opacity: 75%;
+}
+.icon-link{
+    color: white;
+    align-items: center;
+}
+.icon-link:hover{
+    color: #162174;
+}
+.dire{
+    list-style: none;
+    font-weight: bolder;
+    font-size: 20px;
+    color:white;
+    text-decoration: underline;
+ }
+
+
+.sticky-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+  }
+.imagensticky {
+    width: 100%;
+    border-radius: 50%;
+    background-position: center;
+
+}
